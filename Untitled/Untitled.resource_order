@@ -21,5 +21,6 @@
     {"name":"obj_rock","order":2,"path":"objects/obj_rock/obj_rock.yy",},
     {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"spr_button","order":1,"path":"sprites/spr_button/spr_button.yy",},
+    {"name":"Sprite6","order":2,"path":"sprites/Sprite6/Sprite6.yy",},
   ],
 }
